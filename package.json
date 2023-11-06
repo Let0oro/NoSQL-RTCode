@@ -1,0 +1,16 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "Basic lessons about MongoDB, Mongoose, Express, managed with Docker",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start1": "node ./learning-mongoose/index.js",
+    "start2": "node ./seed-mongoose/index.js"
+  },
+  "author": "",
+  "license": "ISC", 
+  "dependencies": {
+    "mongoose": "^8.0.0"
+  }
+}
